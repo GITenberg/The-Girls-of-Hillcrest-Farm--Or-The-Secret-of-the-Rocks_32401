@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26286'
     url: http://www.gutenberg.org/2009/agents/26286
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32401#The-Girls-of-Hillcrest-Farm--Or-The-Secret-of-the-Rocks
 gutenberg_issued: '2010-05-16'
 gutenberg_type: Text
 identifiers:
