@@ -1,0 +1,27 @@
+_repo: The-Girls-of-Hillcrest-Farm--Or-The-Secret-of-the-Rocks_32401
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marlowe, Amy Bell
+    gutenberg_agent_id: '26286'
+    url: http://www.gutenberg.org/2009/agents/26286
+description: ''
+gutenberg_issued: '2010-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Boardinghouses -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Motherless families -- Juvenile fiction'
+title: The Girls of Hillcrest Farm; Or, The Secret of the Rocks
+url: http://www.gutenberg.org/ebooks/32401
